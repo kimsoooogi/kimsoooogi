@@ -54,3 +54,4 @@ class kimsoooogi:
 | 2024.11 | 🎨 **어조 대응형 AI 음성비서 [두부]** | 음성 어조 분류 정확도 94% · FastAPI 비동기 파이프라인 · 응답 지연 40% 단축 | `Python` `FastAPI` `Whisper` `GPT-4` `librosa` | 팀 |
 | 2024.06 | 🚌 **졸음운전 방지 시스템 기획·설계** | 특허 분석 · 시장 조사 기반 멀티모달 아키텍처 기획 | `Market Research` `System Architecture` | 팀 |
 | 2024.06 | 🤖 **Transformer & Generative Models 스터디** | Transformer 풀구현 · AE / VAE / GAN / Diffusion 비교 실험 | `TensorFlow` `Keras` `PyTorch` `HuggingFace` | 개인 |
+| 2021.06 | 🛒 **자료구조 기반의 언택트 쇼핑 시뮬레이션 시스템** | 데이터 모델링 · 핵심 로직 개발 · 비교 연산 알고리즘  | `C` | 팀 |
