@@ -2,7 +2,7 @@
 
 # Hello, World
 
-**데이터로 사용자 경험을 바꾸는 AI 엔지니어를 목표로 합니다.**
+**데이터로 사용자 경험을 바꾸는 IT 엔지니어를 목표로 합니다.**
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sg990926@gmail.com)
 
