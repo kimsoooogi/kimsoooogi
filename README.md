@@ -1,6 +1,6 @@
 <div align="center">
 
-# 김수기 (Kim Sooki)
+# Hello, World
 
 **데이터로 사용자 경험을 바꾸는 AI 엔지니어를 목표로 합니다.**
 
