@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 ```python
-class KimSooki:
+class kimsoooogi:
     def __init__(self):
         self.education  = "상명대학교 휴먼지능정보공학과 (부전공: 문헌정보학)"
         self.interests  = ["현장밀착형 IT 개발자", "사용자 중심 개발"]
